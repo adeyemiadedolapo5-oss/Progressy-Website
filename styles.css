@@ -1,0 +1,34 @@
+.container {
+    margin: 0 auto;
+    max-width: 1200px;
+}
+
+body {
+    background-color: #FFFFFF;
+    color: #333333;
+    font-family: Arial, sans-serif;
+}
+
+h1, h2, h3 {
+    color: #1B5E20;
+}
+
+.header, .footer {
+    background-color: #FBC02D;
+    padding: 20px;
+    text-align: center;
+}
+
+.button {
+    background-color: #1B5E20;
+    color: #FFFFFF;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.button:hover {
+    background-color: #FBC02D;
+    color: #1B5E20;
+}
